@@ -229,6 +229,7 @@ PACKAGES_CONTROLLERS="aelightgun
                       gamecon_gpio_rpi
                       gun4ir-guns
                       guncon
+		      guncon3
                       hid-nx
                       jammasd
                       joycond
